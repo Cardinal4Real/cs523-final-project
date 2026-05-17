@@ -47,7 +47,7 @@ docker run -d \
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cs523-final-project.git
+git clone git@github.com:Cardinal4Real/cs523-final-project.git
 ```
 
 ### Step 2 — Copy files into the container
