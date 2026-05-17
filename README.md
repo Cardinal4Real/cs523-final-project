@@ -33,21 +33,12 @@ HDFS static dataset joined via Spark → enriched HBase rows
 - Docker Desktop installed and running
 - The course lab container running:
 
-```bash
-docker run -d \
-  --name cs523bdt-lab \
-  -p 4040:4040 -p 8088:8088 \
-  -p 9870:9870 -p 10000:10000 \
-  -p 16010:16010 \
-  mmukadam/cs523bdt-lab:v4.0
-```
-
 ## Quick Start
 
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cs523-final-project.git
+git clone git@github.com:Cardinal4Real/cs523-final-project.git
 ```
 
 ### Step 2 — Copy files into the container
